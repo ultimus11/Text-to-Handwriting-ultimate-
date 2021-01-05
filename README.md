@@ -5,4 +5,4 @@ Its almost not possible to distinguish output and real handwriting. Here we also
 ![](code/images/asmt1.png)
 
 
-I code tutorial will be there on my youtube channel
+I code explaination is there on my youtube handle https://www.youtube.com/watch?v=9Xsmm75saHI&feature=youtu.be  enjoy coding.
